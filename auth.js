@@ -1,7 +1,7 @@
 //MSAL configuration
 const msalConfig = {
     auth: {
-        clientId: "ddb790ff-ec30-489a-bc93-d209b5871ca9", // This is your client ID
+        clientId: "<CLIENT_ID>", // This is your client ID
         authority: "https://login.microsoftonline.com/common", // This is your tenant ID
         redirectUri: "http://localhost:8080", // This is your redirect URI
     }
